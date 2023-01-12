@@ -1,0 +1,14 @@
+name: pic2prof
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - torchvision
+  - pytorch
+  - flask
+  - flask-sqlalchemy
+  - flask-cors
+  - gunicorn
+prefix: /opt/miniconda3/envs/pic2prof
