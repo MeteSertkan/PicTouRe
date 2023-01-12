@@ -72,4 +72,4 @@ Compile and run the frontend as following
 npm run serve
 ```
 
-PicTouRe is now running under [localhost:8080](localhost:8080) :raised_hands: 
+PicTouRe is now running under [http://localhost:8080/](http://localhost:8080/) :raised_hands: 
