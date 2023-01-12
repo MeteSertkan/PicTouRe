@@ -2,6 +2,8 @@
 
 We present PicTouRe – a picture-based tourism recommender. PicTouRe aims to mitigate people’s difficulties in explicitly expressing their touristic preferences, which is even more challenging in the initial phase of travel decision making. Addressing this issue, with PicTouRe we follow the idiom “a picture is worth a thousand words” and use pictures as a tool to implicitly elicit peoples’ touristic preferences. We create an easy-to-understand profile of someone's travel preferences by analyzing the pictures they upload. You can try out PicTouRe at [https://pictoprof.ec.tuwien.ac.at](https://pictoprof.ec.tuwien.ac.at/) and watch a demo video at [https://youtu.be/xZnXLPcenEs](https://youtu.be/xZnXLPcenEs). You can find more details under [https://doi.org/10.1145/3383313.3411526](https://doi.org/10.1145/3383313.3411526). 
 
+![](figures/pictoure_overview.png)
+
 Please cite our work as:
 ```
 @inproceedings{sertkan2020_pictoure,
